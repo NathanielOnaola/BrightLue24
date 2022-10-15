@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrightLue24
-- 👀 I’m interested in technology (programming) and trading
+- 👀 I’m a statistician who is interested in programming and trading
 - 🌱 I'm a fullstack developer in making, currently on backend (python, SQL, django)
 - 💞️ I’m looking to collaborate on coding and trading
 - 📫 How to reach me nathkunle94@gmail.com, +2347034719812
